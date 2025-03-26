@@ -3,7 +3,7 @@ package ldapserver
 import (
 	"fmt"
 
-	ldap "github.com/lor00x/goldap/message"
+	ldap "github.com/tozny/goldap/message"
 )
 
 type Message struct {
